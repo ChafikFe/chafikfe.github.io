@@ -3,7 +3,7 @@
 #### Technical Skills: Python, R (RStudio)
 
 ### Education
-- Master's Degree in Mathematics and Statistical Learning | Paris-Saclay University (_2024_)
+- Master's Degree in Applied Statistics | Paris-Saclay University (_2024_)
 - Bachelor's Degree in Mathematics | UVSQ (_2022_)
 
 ### Work Experience
@@ -17,8 +17,6 @@
 Work in progress...
 
 ### Contact
-<div align="center">
-  <a href="mailto:chafik.ferhat@proton.me">Email</a> •
-  <a href="https://github.com/ChafikFe">GitHub</a> •
-  <a href="https://linkedin.com/in/chafik-ferhat">LinkedIn</a>
-</div>
+<a href="mailto:chafik.ferhat@proton.me">Email</a>  • 
+<a href="https://github.com/ChafikFe">GitHub</a>  • 
+<a href="https://linkedin.com/in/chafik-ferhat">LinkedIn</a>
