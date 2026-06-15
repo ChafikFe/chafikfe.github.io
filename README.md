@@ -14,7 +14,7 @@
 - Presentations and reports.
 
 ## Projects
-Work in progress...
+*Work in progress...*
 
 ## Contact
 <a href="mailto:chafik.ferhat@proton.me">Email</a>  • 
