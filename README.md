@@ -4,7 +4,7 @@
 
 ### Education
 - Master's Degree in Applied Statistics | Paris-Saclay University (_2024_)
-- Bachelor's Degree in Mathematics | UVSQ (_2022_)
+- Bachelor's Degree in Mathematics | University of Versailles Saint-Quentin-en-Yvelines (_2022_)
 
 ### Work Experience
 **Data Scientist Internships @ EDF (Électricité de France) (_April 2023 - August 2023_ & _March 2024 - August 2024_)**
