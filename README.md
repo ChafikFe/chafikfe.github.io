@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### <a href="https://ln5.sync.com/dl/9ecc2a130#hw7dfqfe-ufcewbui-jfkr92hi-asngxcxv">Download my resume as a pdf</a>
+#### <a href="https://ln5.sync.com/dl/9ecc2a130#hw7dfqfe-ufcewbui-jfkr92hi-asngxcxv">Download my resume (pdf)</a>
 
 #### Technical Skills: Python, R (RStudio)
 
