@@ -27,6 +27,9 @@
 ## Projects
 *Work in progress...*
 
+<br>
+<br>
+
 ## Contact
 <a href="mailto:chafik.ferhat@proton.me">Email</a>  • 
 <a href="https://github.com/ChafikFe">GitHub</a>  • 
