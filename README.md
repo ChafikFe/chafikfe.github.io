@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Download my resume (pdf) in <a href="https://ln5.sync.com/dl/a88a920e0#dixpexdf-djs6a6xn-wan62hp3-6pp9nmne">english</a> or in <a href="https://ln5.sync.com/dl/9ecc2a130#hw7dfqfe-ufcewbui-jfkr92hi-asngxcxv">french</a>.
+#### Download my resume (pdf) in <a href="https://drive.proton.me/urls/2QKXV3QYDG#AicXaBoFm13N">english</a> or in <a href="https://drive.proton.me/urls/39H73KC3PR#CpnxPjOv3T0c">french</a>.
 
 #### Technical Skills: Python, R (RStudio)
 
